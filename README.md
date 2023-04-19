@@ -1,7 +1,7 @@
-| <img src="README.assets/logo2.png" alt="logo2" style="zoom: 46%;" /> | ![wit_logo2](README.assets/wit_logo2.png) |
-| :----------------------------------------------------------: | :---------------------------------------: |
+| <img src="README.assets/logo2.png" alt="logo2" style="zoom:50%;" /> |
+| :----------------------------------------------------------: |
 
-<p align="center">[![CRAIC2021](https://img.shields.io/badge/CRAIC-2021-blue)](https://www.caairobot.com/)</p>
+[![CRAIC2021](https://img.shields.io/badge/CRAIC-2021-blue)](https://www.caairobot.com/)
 
 ---
 
