@@ -1,3 +1,10 @@
+| <img src="README.assets/logo2.png" alt="logo2" style="zoom: 46%;" /> | ![wit_logo2](README.assets/wit_logo2.png) |
+| :----------------------------------------------------------: | :---------------------------------------: |
+
+<p align="center">[![CRAIC2021](https://img.shields.io/badge/CRAIC-2021-blue)](https://www.caairobot.com/)</p>
+
+---
+
 # Companion Reading AI (CRAI)
 
 > A demonstration of **CRAI** (2021 China Robotics and Artificial Intelligence Competition National Second Prize Winners).
@@ -21,13 +28,14 @@
 
 ## 三、基本功能演示
 
-### 2.1  点读笔记
+### 2.1  点读与标记
 
-![点读笔记](README.assets/点读笔记.gif)
+| ![点读笔记](README.assets/点读笔记.gif) |
+| :-------------------------------------: |
 
 ### 2.2  学习渲染
 
 | <img src="README.assets/学习渲染.gif" alt="学习渲染" style="zoom: 50%;" /> | <img src="README.assets/自定义笔记渲染.gif" alt="自定义笔记渲染" style="zoom: 50%;" /> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|                           学习渲染                           |                        自定义笔记渲染                        |
+|                        学习渲染与点读                        |                        自定义笔记渲染                        |
 
