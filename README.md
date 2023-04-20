@@ -65,14 +65,14 @@
 
 ### 📄  科研论文
 
-- ICFTIC2022：[Degradation Prior Guided Scene Text Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10075240/)
-- ICRCV2022： [HTD: A Fast Human-centered Text-locating Method for Auxiliary Reading](https://ieeexplore.ieee.org/abstract/document/9953262/)
-- MIS：[RWYI: Reading What You Are Interested in with a Learning-Based Text Interactive System](https://www.hindawi.com/journals/misy/2022/6378011/)
+- [Degradation Prior Guided Scene Text Image Super-Resolution（ICFTIC2022）](https://ieeexplore.ieee.org/abstract/document/10075240/)
+- [HTD: A Fast Human-centered Text-locating Method for Auxiliary Reading（ICRCV2022）](https://ieeexplore.ieee.org/abstract/document/9953262/)
+- [RWYI: Reading What You Are Interested in with a Learning-Based Text Interactive System（MIS）](https://www.hindawi.com/journals/misy/2022/6378011/)
 - ...
 
 ### 📑  软著及专利
 
-- 伴读AI情景在线信息显示系统V1.0
+- [伴读AI情景在线信息显示系统V1.0（2022SR0274777）](https://register.ccopyright.com.cn/query.html)
 - ...
 
 
