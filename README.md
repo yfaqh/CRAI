@@ -23,10 +23,10 @@
 <h1 align="center">
     伴读AI (CRAI)
 </h1>
-<h4 align="center">
+<h3 align="center">
     基于AI视觉和交互的智能伴读辅助学习平台<br/>
     🥈<i>第23届中国机器人及人工智能大赛国家级二等奖</i>
-</h4><br/>
+</h3><br/>
 
 ## 🚩  项目简介
 
@@ -68,6 +68,7 @@
 - ICFTIC2022：[Degradation Prior Guided Scene Text Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10075240/)
 - ICRCV2022： [HTD: A Fast Human-centered Text-locating Method for Auxiliary Reading](https://ieeexplore.ieee.org/abstract/document/9953262/)
 - MIS：[RWYI: Reading What You Are Interested in with a Learning-Based Text Interactive System](https://www.hindawi.com/journals/misy/2022/6378011/)
+- ...
 
 ### 📑  软著及专利
 

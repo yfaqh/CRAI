@@ -23,10 +23,11 @@
 <h1 align="center">
     Companion Reading AI (CRAI)
 </h1>
-<h4 align="center">
+<h3 align="center">
     AI-based visual and interactive intelligent companion reading assisted learning platform.<br/>
     🥈<i>2021 China Robotics and Artificial Intelligence Competition National Second Prize Winners</i>
-</h4><br/>
+</h3><br/>
+
 
 ## 🚩  Introduction
 
