@@ -21,39 +21,39 @@
     </a>
 </p>
 <h1 align="center">
-    伴读AI (CRAI)
+    Companion Reading AI (CRAI)
 </h1>
 <h4 align="center">
-    基于AI视觉和交互的智能伴读辅助学习平台<br/>
-    🥈<i>第23届中国机器人及人工智能大赛国家级二等奖</i>
+    AI-based visual and interactive intelligent companion reading assisted learning platform.<br/>
+    🥈<i>2021 China Robotics and Artificial Intelligence Competition National Second Prize Winners</i>
 </h4><br/>
 
-## 🚩  项目简介
+## 🚩  Introduction
 
-**伴读AI**项目以人机交互为核心，聚焦于探索人工智能新技术在现代化阅读中的应用，并基于计算机视觉技术，研究阅读场景中的**人机交互**与**智能辅助阅读**技术。项目包含***手-文混合目标检测***、***场景文本图像超分辨率***等多个方面的算法创新，基于所创新的算法实现了流畅与准确的辅助阅读，提高了阅读学习效率。项目进一步通过开发移动端平台，提供复习与二次学习等个性化功能。
+The **Companion Reading AI** project takes human-computer interaction as the core, focuses on exploring the application of new artificial intelligence technologies in modern reading, and studies the **human-computer interaction** and **in reading scenarios based on computer vision technology Smart assisted reading** technology. The project includes algorithm innovations in multiple aspects such as ***hand-text mixed target detection***, ***scene text image super-resolution***, etc. Based on the innovative algorithm, fluent and accurate assisted reading is realized, improving reading learning efficiency. The project further develops the mobile terminal platform to provide personalized functions such as review and secondary learning.
 
 
 
-## 🔑  相关技术
+## 🔑  Technology
 
-- [x] 手部检测
-- [x] 手部关键点检测
-- [x] 端到端文本检测与识别
-- [x] 场景文字图像超分辨率
-- [x] 图像匹配
-- [ ] 语音合成
+- [x] Hand Detection
+- [x] Hand Key Point Detection
+- [x] End-to-End Text Detection and Recognition
+- [x] Scene Text Image Super-Resolution
+- [x] Image Matching
+- [ ] Speech Synthesis
 - [ ] ...
 
 
 
-## 🔍  基本功能演示
+## 🔍  Demo of CRAI
 
-### 📖  点读与标记
+### 📖  Read and Mark
 
 | ![点读笔记](README.assets/点读笔记.gif) |
 | :-------------------------------------: |
 
-### 📲  学习渲染
+### 📲  Learn and Render
 
 | <img src="README.assets/学习渲染.gif" alt="学习渲染" style="zoom: 50%;" /> | <img src="README.assets/自定义笔记渲染.gif" alt="自定义笔记渲染" style="zoom: 50%;" /> |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -61,21 +61,22 @@
 
 
 
-## 🎯  相关成果
+## 🎯  Achievements
 
-### 📄  科研论文
+### 📄  Papers
 
 - ICFTIC2022：[Degradation Prior Guided Scene Text Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/10075240/)
 - ICRCV2022： [HTD: A Fast Human-centered Text-locating Method for Auxiliary Reading](https://ieeexplore.ieee.org/abstract/document/9953262/)
 - MIS：[RWYI: Reading What You Are Interested in with a Learning-Based Text Interactive System](https://www.hindawi.com/journals/misy/2022/6378011/)
+- ...
 
-### 📑  软著及专利
+### 📑  Soft Works and Patents
 
 - ...
 
 
 
-## 🔗  联系我们
+## 🔗  Contact us
 
-如果您对我们的工作感兴趣，欢迎联系与交流。（@E-mail：yfaqh2018@163.com）
+If you are interested in our work, feel free to contact and communicate. (@E-mail: yfaqh2018@163.com)
 
