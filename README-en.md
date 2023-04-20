@@ -72,6 +72,7 @@ The **Companion Reading AI** project takes human-computer interaction as the cor
 
 ### 📑  Soft Works and Patents
 
+- Companion Reading AI scene online information display system V1.0
 - ...
 
 
